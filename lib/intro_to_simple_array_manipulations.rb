@@ -9,7 +9,7 @@ def using_uniq(a)
 end
 
 def using_flatten(a)
-  a.flatten << a.to_s
+  a.flatten 
 end
 
 
