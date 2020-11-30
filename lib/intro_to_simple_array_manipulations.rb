@@ -1,2 +1,4 @@
 def my_favorite_things
-  
+def more_favs
+
+all_my_favs
