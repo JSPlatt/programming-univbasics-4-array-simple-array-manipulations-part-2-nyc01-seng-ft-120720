@@ -1,10 +1,10 @@
-house_pets = ["cat", "dog", "mouse"]
-zoo_animals = ["otter", "sloth"] 
+a = []
+b = [] 
 
-def using_concat(house_pets,zoo_animals)
-  house_pets.concat([zoo_animals])
+def using_concat(a,b)
+  a.concat([b])
 end
-house_pets
+using_concat
 end
 
 array = [1]
