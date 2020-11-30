@@ -4,6 +4,7 @@ end
 
 def using_insert(a)
   a.insert(4)
+end
 
 def using_uniq(a)
   a.uniq
