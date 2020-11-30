@@ -3,10 +3,6 @@ def using_concat(a,b)
 end
 
 
-def using_insert(array)
-  array.insert(element)
-end  
-
 
 
   
