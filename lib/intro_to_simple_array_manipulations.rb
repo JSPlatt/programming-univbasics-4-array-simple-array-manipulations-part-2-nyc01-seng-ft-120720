@@ -1,6 +1,6 @@
 def using_concat(a,b)
-  a.concat([b])
-a
+  using_concat = [a.concat([b])
+using_concat
 end
 
 def using_insert(array, element)
