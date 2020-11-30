@@ -2,7 +2,8 @@ def using_concat(a,b)
   a.concat(b)
 end
 
-#def using_insert
+def using_insert(a)
+  a.insert(4)
 
 def using_uniq(a)
   a.uniq
