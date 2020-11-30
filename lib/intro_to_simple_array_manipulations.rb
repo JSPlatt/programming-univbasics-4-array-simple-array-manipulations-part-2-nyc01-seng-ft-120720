@@ -1,5 +1,5 @@
-a = ["1"]
-b = ["2"] 
+a = ["cat", "dog", "mouse"]
+b = ["otter", "sloth"] 
 
 def using_concat(a,b)
   a.concat([b])
