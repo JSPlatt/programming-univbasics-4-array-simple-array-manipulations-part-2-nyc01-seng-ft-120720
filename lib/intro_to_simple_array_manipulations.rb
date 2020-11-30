@@ -3,7 +3,6 @@ def using_concat(a,b)
 end
 
 def using_insert(a,b)
-  a.insert[(b)]
-  index = 4
+  a.insert[(b)
 end
   
