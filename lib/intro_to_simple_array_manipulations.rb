@@ -8,7 +8,7 @@ end
 array = [1]
 element = 2
 
-def using_insert(array)
+def using_insert(array,element)
   array.insert(element)
 end  
 
