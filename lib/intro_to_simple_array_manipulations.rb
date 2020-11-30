@@ -1,1 +1,1 @@
-["a", "b"].concat 
+["a", "b"].concat()
