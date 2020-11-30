@@ -1,6 +1,3 @@
-def using_concat("a", "b")
-a = []
-b = []
-a.concat([b])
-a
+def using_concat(a,b)
+  a.concat([b])
 end
