@@ -1,3 +1,5 @@
-a = [1,2,3]
-a.concat [4,5]
-a
+def my_favorite_things
+def more_favs
+def all_my_favs
+  
+all_my_favs.concat
