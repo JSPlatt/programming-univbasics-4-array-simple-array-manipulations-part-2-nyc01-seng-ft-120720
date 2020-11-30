@@ -6,7 +6,7 @@ def using_concat(a,b)
 end
 
 array = [1]
-element = [2]
+element = 2
 
 def using_insert(array)
   array.insert(element)
