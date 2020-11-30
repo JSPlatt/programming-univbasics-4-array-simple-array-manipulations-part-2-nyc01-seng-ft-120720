@@ -4,5 +4,6 @@ end
 
 def using_insert(a,b)
   a.insert[(b)]
+  index = 4
 end
   
