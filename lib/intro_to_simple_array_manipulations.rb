@@ -12,7 +12,7 @@ def using_flatten(a)
   a.flatten 
 end
 
-def using_delete
-  a.delete_at
+def using_delete(a,b)
+  a.delete_at(b)
 
   
