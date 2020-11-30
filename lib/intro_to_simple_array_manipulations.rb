@@ -3,6 +3,6 @@ def using_concat("a", "b")
 a = []
 b = []
 
-a.concat()
+a.concat
 
 end
