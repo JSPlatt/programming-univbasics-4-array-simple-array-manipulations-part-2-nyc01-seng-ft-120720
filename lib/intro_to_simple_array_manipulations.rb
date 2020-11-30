@@ -3,6 +3,7 @@ b = [4,5,6]
 
 def using_concat(a,b)
   a.concat([b])
+  using_concat
 end
 
 #array = [1]
